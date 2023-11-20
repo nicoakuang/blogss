@@ -1,13 +1,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>nicoakuang blog</title>
+    <link>https://nicoakuang.github.io/blog/</link>
+    <description>Recent content on nicoakuang blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 19 Nov 2023 20:43:30 +0800</lastBuildDate>
     
-        <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://nicoakuang.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
-    
+    <item>
+      <title>Posts</title>
+      <link>https://nicoakuang.github.io/blog/posts/</link>
+      <pubDate>Sun, 19 Nov 2023 20:43:30 +0800</pubDate>
+      
+      <guid>https://nicoakuang.github.io/blog/posts/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
